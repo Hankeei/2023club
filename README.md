@@ -15,7 +15,7 @@ Format for uploading
 >Other language are recommended
 
 For asking question about **tasks**
-Feel free to open a pull request🙌
+Feel free to open a [issue](https://github.com/Hankeei/2023club/issues)🙌
 
 
 If you have any question(about the repository) feel free to DM me
