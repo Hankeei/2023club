@@ -2,11 +2,11 @@
 
 #Hello Wrld!
 
-Please do not use this repository as your place of copying homework. Reading codes and learning are important 👍
+***Please do not use this repository as your place of copying homework.*** Reading codes and learning are important 👍
 
 If you would like to upload your work as a example for other, please DM me either on discord (@hank#6564) or instagram <3
 
-##Format for uploading
+Format for uploading
 >[Task]-[Yourname].cpp
 >
 >Example 
@@ -14,7 +14,7 @@ If you would like to upload your work as a example for other, please DM me eithe
 >
 >Other language are recommended
 
-#For asking question about tasks
+For asking question about **tasks**
 Feel free to open a pull request🙌
 
 
