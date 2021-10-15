@@ -26,5 +26,6 @@ If you have any question(about the repository) feel free to DM me
 Main Repo Editor
 Hankeei
 Reas0ns
+thefatau
 ```
 >yes this is the repository of me practicing using github
