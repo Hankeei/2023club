@@ -19,3 +19,12 @@ Feel free to open a [issue](https://github.com/Hankeei/2023club/issues)🙌
 
 
 If you have any question(about the repository) feel free to DM me
+
+
+
+```
+Main Repo Editor
+Hankeei
+Reas0ns
+```
+>yes this is the repository of me practicing using github
