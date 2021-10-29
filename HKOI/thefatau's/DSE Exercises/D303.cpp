@@ -1,13 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-  string a , b;
-  getline(cin , a);
+  string a, b;
+  getline(cin, a);
   b = a;
-  for (int i = 0; i < a.length() / 2; i++) {
-    swap(a[i] , a[a.length() - i - 1]);
+  for (int i = 0; i < a.length(); i++) {
+    b[a.length() - 1 - i] = a[i];
   }
-  cout << a << endl;
-  cout << (a.compare(b) == 0 ? "Yes" : "No") << endl;
+  cout << b << endl;
+  cout << (b == a ? "Yes" : "No");
   return 0;
 }
